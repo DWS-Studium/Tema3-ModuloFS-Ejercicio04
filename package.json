@@ -1,0 +1,12 @@
+{
+    "name": "ejercicio03",
+    "version": "1.0.0",
+    "description": "Crear una aplicación en Node.js que cree en la carpeta anterior 10 ficheros de texto llamados Tabla del 1.txt, Tabla del 2.txt... que contenga la tabla de cada número del 1 al 10.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon ./index.js"
+    },
+    "author": "Alvaro Carballo",
+    "license": "ISC"
+}
